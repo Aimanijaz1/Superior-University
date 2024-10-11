@@ -1,2 +1,2 @@
 # Superior-University
-Lab Tasks 01 to 04
+Lab Tasks 01 to 08
