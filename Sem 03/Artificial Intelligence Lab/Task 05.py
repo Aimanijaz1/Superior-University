@@ -32,6 +32,8 @@ def get_neighbours(vertex):
     return tree[vertex]
 DFS('A')
 
+# Task 02 of Lab task 05
+
 1) Inorder Traversal: In this traversal, you first visit the left child, then the current node, and finally the right child. The nodes are visited in ascending order in a binary search tree.
 2) Preorder Traversal: Here, you visit the current node first, then the left child, and finally the right child.
 3) Postorder Traversal: In this traversal, you first visit the left child, then the right child, and finally the current node.
